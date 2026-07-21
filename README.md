@@ -19,12 +19,8 @@ The objective is to discover trends in movies and TV shows, understand content d
 ---
 
 ## 📊 Dashboard Preview
+<img width="1122" height="1402" alt="ChatGPT Image Jul 21, 2026, 03_28_15 PM" src="https://github.com/user-attachments/assets/ff262155-6498-470c-a987-eb15ef0942a7" />
 
-(Add your dashboard screenshot here)
-
-Example:
-
-![Dashboard](Images/dashboard.png)
 
 ---
 
